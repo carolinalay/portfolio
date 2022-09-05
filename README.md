@@ -1,4 +1,5 @@
 ## **Guided projects**
+This portfolio contains guided projects from DataCamp
 
 | **Project Name** | **Description** | **Topics**|
 |------------------|-----------------|------------|
