@@ -1,5 +1,5 @@
 ## **Guided project**
-This portfolio contains SQL guided project from DataCamp that I perfomed in their platform
+This portfolio includes SQL guided project done in DataCamp platform
 
 | **Project Name** | **Description** | **Topics**|
 |------------------|-----------------|-------------------------|
